@@ -15,8 +15,8 @@ const config: Config = {
         warning: "#F59E0B"
       },
       fontFamily: {
-        sans: ["var(--font-inter)", "Inter", "system-ui", "sans-serif"],
-        display: ["var(--font-display)", "var(--font-inter)", "system-ui", "sans-serif"]
+        sans: ["var(--font-inter)", "Inter", "Poppins", "SF Pro Display", "system-ui", "sans-serif"],
+        display: ["var(--font-inter)", "Inter", "Poppins", "SF Pro Display", "system-ui", "sans-serif"]
       },
       boxShadow: {
         soft: "0 18px 60px rgba(15, 23, 42, 0.08)",
