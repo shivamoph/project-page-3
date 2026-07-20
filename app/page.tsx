@@ -296,7 +296,7 @@ function Magnifier({
         <img
           ref={imageRef}
           alt={alt}
-          className="max-h-full max-w-full object-contain object-center"
+          className="h-full w-full object-contain object-center"
           draggable={false}
           loading="eager"
           onError={(event) => {
